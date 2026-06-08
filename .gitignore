@@ -24,6 +24,10 @@
 .vscode/
 .idea/
 
+# Cursor AI agent instructions (local config, not needed in repo)
+CLAUDE.md
+AGENTS.md
+
 # production
 /build
 
