@@ -17,11 +17,19 @@
 /.next/
 /out/
 
+# raw source assets (docx, etc.)
+/assets_raw/
+
+# IDE settings
+.vscode/
+.idea/
+
 # production
 /build
 
 # misc
 .DS_Store
+Thumbs.db
 *.pem
 
 # debug
